@@ -1,4 +1,4 @@
-# PPS-CT1-MiniProject
+# book_finder
 A program which tells the required book location in the library.
 
 ## Basic Interface
